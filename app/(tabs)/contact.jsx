@@ -88,7 +88,7 @@ const contact = () => {
               Contact Details
             </Text>
           </View>
-          <Text style={{ marginTop: 20}}>
+          <Text style={{ marginTop: 20}} >
             Feel free to contact through any of the media below: I typically
             response in 2 minutes.
           </Text>
